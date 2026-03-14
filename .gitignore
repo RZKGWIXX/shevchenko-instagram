@@ -1,0 +1,4 @@
+node_modules/
+.env
+*.log
+index_backup.html
